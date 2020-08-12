@@ -32,3 +32,50 @@ This is for windows.
         "editor.defaultFormatter": "yzhang.markdown-all-in-one"
     }
 ```
+
+## Spell Check
+
+```json
+    "cSpell.userWords": [
+        "aimer",
+        "aimer neige",
+        "aimerneige",
+        "anduin",
+        "centos",
+        "cmap",
+        "demenu",
+        "dmenu",
+        "dmenu run",
+        "fcitx",
+        "hakase",
+        "inory",
+        "libreoffice",
+        "lybia",
+        "marp",
+        "mathjax",
+        "matplotlib",
+        "monika",
+        "mylist",
+        "natsuki",
+        "neige",
+        "netease",
+        "nums",
+        "prefs",
+        "pygal",
+        "pygame",
+        "pyplot",
+        "run",
+        "sayori",
+        "shared",
+        "shared prefs",
+        "shinpuru",
+        "studyaholic",
+        "typora",
+        "xaxis",
+        "xiaoming",
+        "xlabel",
+        "yaxis",
+        "ylabel",
+        "zfill"
+    ],
+```
