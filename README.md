@@ -79,3 +79,46 @@ This is for windows.
         "zfill"
     ],
 ```
+
+```
+"editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "name": "italic font",
+        "scope": [
+          "comment",
+          "keyword",
+          "storage",
+          "keyword.control.import",
+          "keyword.control.default",
+          "keyword.control.from",
+          "keyword.operator.new",
+          "keyword.control.export",
+          "keyword.control.flow",
+          "storage.type.class",
+          "storage.type.function",
+          "storage.type",
+          "storage.type.class",
+          "variable.language",
+          "variable.language.super",
+          "variable.language.this",
+          "meta.class",
+          "meta.var.expr",
+          "constant.language.null",
+          "support.type.primitive",
+          "entity.name.method.js",
+          "entity.other.attribute-name",
+          "punctuation.definition.comment",
+          "text.html.basic entity.other.attribute-name.html",
+          "text.html.basic entity.other.attribute-name",
+          "tag.decorator.js entity.name.tag.js",
+          "tag.decorator.js punctuation.definition.tag.js",
+          "source.js constant.other.object.key.js string.unquoted.label.js",
+        ],
+        "settings": {
+          "fontStyle": "italic",
+        }
+      },
+    ]
+  },
+```
