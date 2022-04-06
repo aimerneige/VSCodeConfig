@@ -80,7 +80,7 @@ This is for windows.
     ],
 ```
 
-```
+```json
 "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
